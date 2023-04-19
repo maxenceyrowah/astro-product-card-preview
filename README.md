@@ -1,16 +1,13 @@
-# Astro Starter Kit: Basics
+# Frontend Mentor - Product preview card component
 
-```
-npm create astro@latest -- --template basics
-```
+## Welcome! 👋
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+Thanks for checking out this front-end coding challenge.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+
+![basics](./public/design/desktop-preview.jpg)
 
 
 ## 🚀 Project Structure
@@ -37,6 +34,18 @@ There's nothing special about `src/components/`, but that's where we like to put
 
 Any static assets, like images, can be placed in the `public/` directory.
 
+### Links
+
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+### Built with
+
+- Semantic HTML5 markup
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [Astro](https://docs.astro.build/fr/getting-started/)
+  
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
