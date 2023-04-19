@@ -36,7 +36,7 @@ Any static assets, like images, can be placed in the `public/` directory.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Product-View-Card](https://astro-product-card-preview.vercel.app/)
 
 ### Built with
 
@@ -45,6 +45,11 @@ Any static assets, like images, can be placed in the `public/` directory.
 - CSS Grid
 - Mobile-first workflow
 - [Astro](https://docs.astro.build/fr/getting-started/)
+
+## Author
+
+- Frontend Mentor - [@maxenceyrowah](https://www.frontendmentor.io/profile/maxenceyrowah)
+- Twitter - [@maxenceyrowah](https://www.twitter.com/Maxence_Yro)
   
 ## 🧞 Commands
 
