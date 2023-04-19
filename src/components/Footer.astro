@@ -1,0 +1,14 @@
+---
+export type Props = {
+  author: string;
+};
+
+const { author } = Astro.props;
+---
+
+<div class="text-xs text-center">
+  Challenge by <a
+    href="https://www.frontendmentor.io?ref=challenge" class="text-[#3E52A3]"
+    target="_blank">Frontend Mentor</a
+  >. Coded by <a href="#" class="text-[#3E52A3]">{author}</a>.
+</div>

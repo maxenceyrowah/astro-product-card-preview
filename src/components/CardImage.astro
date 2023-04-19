@@ -1,0 +1,10 @@
+---
+export type Props = {
+  src: string;
+};
+
+const { src } = Astro.props;
+---
+
+<div class={`bg-[url('${src}')] bg-cover bg-center bg-no-repeat h-[600px] rounded-[5px]`} />
+
